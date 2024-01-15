@@ -1,1 +1,3 @@
-https://www.tutorialspoint.com/angularjs/angularjs_directives.htm
+https://www.tutorialspoint.com/angularjs/angularjs_directives.html
+
+localhost : 8585
